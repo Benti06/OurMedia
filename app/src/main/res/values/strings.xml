@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OurMedia</string>
+    <string name="primary_activity">Esplora</string>
+    <string name="second_activity">Like</string>
+</resources>
